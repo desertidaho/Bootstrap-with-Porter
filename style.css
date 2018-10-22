@@ -1,4 +1,60 @@
+body {
+  overflow-x: hidden;
+  margin-left: -1.5vw;
+}
+
+.header-info {
+  color: white;
+}
+
 header div img {
   height: 50vh;
   width: 40vh;
+}
+
+.features {
+  width: fit-content;
+}
+
+.features-para {
+  width: 40vw;
+}
+
+.three-features-para {
+  width: 75%
+}
+
+.col-sm-4 p,
+.col-sm-12 p {
+  margin-left: 3vw;
+}
+
+.no-gutters {
+  width: 100vw;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.media {
+  width: 100%;
+  height: 300px;
+}
+
+.beside-coffee-img h2 {
+  color: white;
+  padding: 4vw 0vw 0vw 4vw;
+}
+
+.beside-coffee-img p {
+  color: white;
+  padding-left: 4vw;
+  width: 80%;
+}
+
+.four-of-four {
+  color: white;
+}
+
+.bottom-left {
+  margin-left: 5vw;
 }
